@@ -1,0 +1,6 @@
+*.o
+*.out
+test_forklift_logic
+test_center_logic
+__pycache__/
+*.pyc
